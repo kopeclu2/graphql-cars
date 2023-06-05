@@ -1,0 +1,3 @@
+graphql:
+  packages:
+    - "cz.kopeclu2.graphqlcars"
